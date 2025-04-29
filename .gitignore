@@ -368,3 +368,8 @@ MigrationBackup/
 
 # VS Code
 .vscode
+/YgoMaster/Data/ClientData/IDS/*
+/YgoMaster/Data/ClientData/Images/*
+/YgoMaster/Data/ClientData/SoloGateCards.txt
+/YgoMaster/Data/SoloDuels
+/YgoMaster/Data/StructureDecks
