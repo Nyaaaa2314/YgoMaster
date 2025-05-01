@@ -373,3 +373,7 @@ MigrationBackup/
 /YgoMaster/Data/ClientData/SoloGateCards.txt
 /YgoMaster/Data/SoloDuels
 /YgoMaster/Data/StructureDecks
+/YgoMasterClient.exe
+/YgoMasterLoader.dll
+/YgoMaster.exe
+YgoMasterDeckTools/temp.ydk

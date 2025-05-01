@@ -930,6 +930,10 @@
     1120026,//Origin of the Galaxy
     1120027,//Heroes' Union
     1120028,//Blaze of Albaz
+    //Custom Structure Decks
+    1129006, //Unbreakable Valor
+    1129007, //Tombbound Legacy
+    1129008  //Paragon of Justice
   ],
   "WALLPAPER": [
     1130001,//Blue-Eyes Alternative White Dragon
